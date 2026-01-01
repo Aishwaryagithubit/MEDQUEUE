@@ -1,6 +1,32 @@
 # MEDQUEUE
 
-**MEDQUEUE** — A Vite + React + TypeScript frontend scaffold with shadcn-style UI components.This repository contains a complete frontend app (pages, UI components, translations) and is ready to integrate with an Azure-backed API (Azure Functions / FastAPI), Azure OpenAI, a database, and Blob Storage for a full-stack deployment.
+
+## 📖 Description
+
+
+**MEDQUEUE** is an AI-powered smart queue and appointment management system for hospitals and clinics. It modernizes patient flow by enabling patients to:
+
+
+- Upload past medical reports and current symptoms
+- Interact with an AI-powered chat assistant for personalized recommendations
+- Find suitable doctors and hospitals with real-time availability
+- Book appointments and pay online seamlessly
+
+
+For doctors and hospital staff, MEDQUEUE provides:
+
+
+- Dashboard to view patient appointments and AI-generated summaries
+- Ability to manage schedules, follow-ups, and consultations
+- Automated triage and priority notifications for urgent cases
+
+
+The system eliminates physical queues, reduces patient wait times, and improves operational efficiency, making hospital workflows smarter, faster, and patient-friendly.
+
+
+> MEDQUEUE frontend is built using **Vite + React + TypeScript**, with **shadcn-style UI components**. It’s ready to integrate with Azure-based AI services, databases, and storage for a full-stack, real-world deployment.
+
+**MEDQUEUE** is built using A Vite + React + TypeScript frontend scaffold with shadcn-style UI components.This repository contains a complete frontend app (pages, UI components, translations) and is ready to integrate with an Azure-backed API (Azure Functions / FastAPI), Azure OpenAI, a database, and Blob Storage for a full-stack deployment.
 
 ---
 
