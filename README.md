@@ -1,6 +1,6 @@
 # MEDQUEUE
 
-**MEDQUEUE** — A Vite + React + TypeScript frontend scaffold with shadcn-style UI components. This repository contains a complete frontend app (pages, UI components, translations) and is ready to integrate with an Azure-backed API (Azure Functions / FastAPI), Azure OpenAI, a database, and Blob Storage for a full-stack deployment.
+**MEDQUEUE** — A Vite + React + TypeScript frontend scaffold with shadcn-style UI components.This repository contains a complete frontend app (pages, UI components, translations) and is ready to integrate with an Azure-backed API (Azure Functions / FastAPI), Azure OpenAI, a database, and Blob Storage for a full-stack deployment.
 
 ---
 
@@ -8,7 +8,7 @@
 
 Prerequisites:
 
-- Node.js (LTS recommended, e.g. 18+)
+- Node.js (LTS recommended)
 - npm
 - (Optional) Azure CLI / Azure Functions Core Tools when you add backend
 
