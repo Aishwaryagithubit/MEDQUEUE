@@ -97,7 +97,7 @@ export function HeroSection() {
                 ))}
               </div>
               <div className="text-left">
-                <p className="font-heading font-bold text-foreground">50,000+</p>
+                <p className="font-heading font-bold text-foreground">10,000+</p>
                 <p className="text-sm text-muted-foreground">{t('hero.patients')}</p>
               </div>
             </motion.div>
