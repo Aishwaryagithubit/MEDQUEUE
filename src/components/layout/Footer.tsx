@@ -98,7 +98,7 @@ export function Footer() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-muted-foreground text-sm">{t('footer.copyright')}</p>
+          <p className="text-muted-foreground text-sm">© 2026 MediQueue. All rights reserved.</p>
           <p className="text-muted-foreground text-sm">
             Made with ❤️ in Nepal
           </p>
