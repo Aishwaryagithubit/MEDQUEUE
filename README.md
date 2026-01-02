@@ -12,10 +12,7 @@
 - Find suitable doctors and hospitals with real-time availability
 - Book appointments and pay online seamlessly
 
-
 For doctors and hospital staff, MEDQUEUE provides:
-
-
 - Dashboard to view patient appointments and AI-generated summaries
 - Ability to manage schedules, follow-ups, and consultations
 - Automated triage and priority notifications for urgent cases
