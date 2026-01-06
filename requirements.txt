@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+pyodbc
+azure-storage-blob
+openai
